@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">navdrawermetro2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_helpline">Helpline</string>
+    <string name="menu_Routemap">Route Map</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_logout">Logout</string>
+    <string name="main_heading">Metro Rail</string>
+    <string name="mainheading1">Help Desk</string>
+    <string name="mainheading">Welcome to Hyderabad Metro Rail</string>
+    <string name="heading">Check the details of metro station</string>
+    <string name="station1">NAGOLE</string>
+    <string name="station2">UPPAL</string>
+    <string name="station3">STADIUM</string>
+    <string name="station4">NGRI</string>
+    <string name="station5">HABSIGUDA</string>
+    <string name="statin6">TARNAKA</string>
+    <string name="station7">METTUGUDA</string>
+    <string name="station8">SECENDERABAD EAST</string>
+    <string name="station9">PARADE GROUND</string>
+    <string name="frag1">Hyderabad Metro Rail Helpline Details</string>
+    <string name="frag2">Hyderabad Metro Rail Depot Uppal Main Road , Hyderabad</string>
+    <string name="frag3">Phone No:+91 40 2333 2555</string>
+    <string name="frag4">Email:customerservice@ltmetro.com</string>
+    <string name="frag5">Please Address your suggestions and issues here</string>
+</resources>
